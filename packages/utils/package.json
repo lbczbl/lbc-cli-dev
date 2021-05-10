@@ -1,0 +1,23 @@
+{
+  "name": "@lbc-cli-dev/utils",
+  "version": "1.0.1",
+  "description": "lbc-cli-dev utils",
+  "author": "lbczbl <2553486226@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "gitHead": "cbf41f5dec7bde0c8186e86b121154e6e71e41e3"
+}
